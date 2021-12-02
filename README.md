@@ -26,3 +26,8 @@ npm run test
     |-- compiler.js # webpack构建文件
     |-- index.test.js # jest测试文件
 ```
+
+## 参考链接
+[Webpack API](https://www.webpackjs.com/api/plugins/#tapable)  
+[编写一个 Loader](https://www.webpackjs.com/contribute/writing-a-loader/)  
+[编写一个 Plugin](https://www.webpackjs.com/contribute/writing-a-plugin/)  
